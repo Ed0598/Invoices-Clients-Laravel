@@ -16,7 +16,7 @@ use App\Http\Controllers\HomeController;
 */
 
 //Homepage
-Route::get('/home', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index']);
 
 //clients
 route::get('/clients',[ClientsController::class, 'index']);
