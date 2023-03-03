@@ -15,7 +15,7 @@
                 <h2 class='flex justify-center mb-8'> Clients </h2>
                 <img src="../assets/photo-1556740772-1a741367b93e.avif" alt='clients' class='w-96 mb-4'>
                 <a href="/clients" class='mb-4 text-lg text-red-800 flex justify-center'>Afficher tout les clients</a>
-                <a href="/clients/create" class='text-lg text-red-800 flex justify-center'>Créer un nouveau client</a>
+                <a href="/clients/create" class='text-lg text-red-800 flex justify-center '>Créer un nouveau client</a>
             </div>
             <div id ='factures'class="flex flex-col">
                 <h2 class='flex justify-center mb-8'> Factures </h2>
