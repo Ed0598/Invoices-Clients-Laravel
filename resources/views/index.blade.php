@@ -28,7 +28,7 @@
             </div>
         </div>
     </main>
-    <footer class="bg-gray-200 text-white bottom-0 w-full md:h-24flex items-center">
+    <footer class="bg-gray-200 text-white bottom-0 w-full md:h-24 flex items-center">
         <div class="container mx-auto py-6 px-4 flex flex-col items-center">
             <div class="flex items-center justify-center w-full">
             <div class="text-center mb-4 md:mb-0">
